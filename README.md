@@ -72,10 +72,6 @@ I keep this track conceptually separate from my primary **Agent Systems / Applie
 - [QuantFactorLab](https://github.com/weisssschnee/QuantFactorLab) — quantitative research / AlphaGPT import.
 - [alpha-pit-engine-v2](https://github.com/weisssschnee/alpha-pit-engine-v2) — point-in-time Alpha research infrastructure.
 
-## Education
-
-**M.Sc. in Computer Science**, Hong Kong Metropolitan University  
-**B.Sc. in Marine Technology**, Guangdong Ocean University
 
 ## Contact
 
