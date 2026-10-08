@@ -6,7 +6,7 @@ Production Agent Platforms · Multi-Agent Systems · Agent Harness & Evaluation 
 
 I build production Agent systems that can execute across real tools, machines, browsers, accounts, and long-running workflows — with explicit authority boundaries, durable recovery, and verifiable external actions.
 
-I currently work at **Shenzhen Chengbo Technology Co., Ltd.** as an **AI Agent / Applied AI Systems Engineer with technical-lead responsibilities**. My work spans the Agent execution foundation, Multi-Agent coordination, evaluation / Harness systems, context-runtime infrastructure, and production Applied AI.
+I currently work as an **AI Agent / Applied AI Systems Engineer with technical-lead responsibilities**. My work spans the Agent execution foundation, Multi-Agent coordination, evaluation / Harness systems, context-runtime infrastructure, and production Applied AI.
 
 ## What I build
 
